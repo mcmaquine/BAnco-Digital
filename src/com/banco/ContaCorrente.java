@@ -1,3 +1,4 @@
+package com.banco;
 
 public class ContaCorrente extends Conta {
 	public static final String TIPO = "Conta Corrente";

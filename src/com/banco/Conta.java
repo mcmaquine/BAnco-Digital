@@ -1,3 +1,4 @@
+package com.banco;
 
 public abstract class Conta implements IConta{
 	protected static int SEQUENCIAL = 1;

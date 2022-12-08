@@ -1,3 +1,4 @@
+package com.banco;
 
 public class Cliente {
 	private String nome;
